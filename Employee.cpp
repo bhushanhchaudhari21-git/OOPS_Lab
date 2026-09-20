@@ -10,11 +10,6 @@ class Employee
  	string department;
  	double salary;
 
-//int id;
-//string name;
-//string department;
-//double salary;
-
 public:
 	void setDetails(int empId, string empName, string empDept, double empSal)
  {
